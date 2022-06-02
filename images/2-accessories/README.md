@@ -1,0 +1,1 @@
+![accessory-nihon-logo.png](accessory-nihon-logo.png) accessory-nihon-logo.png
