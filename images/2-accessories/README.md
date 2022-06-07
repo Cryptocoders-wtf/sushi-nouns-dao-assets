@@ -18,7 +18,7 @@
 
 ![accessory-katori-sennkou.png](accessory-katori-sennkou.png) accessory-katori-sennkou.png
 
-![accessory-map-of -japan.png](accessory-map-of -japan.png) accessory-map-of -japan.png
+![accessory-map-of-japan.png](accessory-map-of-japan.png) accessory-map-of-japan.png
 
 ![accessory-nihon-logo.png](accessory-nihon-logo.png) accessory-nihon-logo.png
 
