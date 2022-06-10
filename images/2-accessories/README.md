@@ -6,6 +6,18 @@
 
 ![accessory-crab.png](accessory-crab.png) accessory-crab.png
 
+![accessory-dice1.png](accessory-dice1.png) accessory-dice1.png
+
+![accessory-dice2.png](accessory-dice2.png) accessory-dice2.png
+
+![accessory-dice3.png](accessory-dice3.png) accessory-dice3.png
+
+![accessory-dice4.png](accessory-dice4.png) accessory-dice4.png
+
+![accessory-dice5.png](accessory-dice5.png) accessory-dice5.png
+
+![accessory-dice6.png](accessory-dice6.png) accessory-dice6.png
+
 ![accessory-fuji-with-sun.png](accessory-fuji-with-sun.png) accessory-fuji-with-sun.png
 
 ![accessory-fuji.png](accessory-fuji.png) accessory-fuji.png

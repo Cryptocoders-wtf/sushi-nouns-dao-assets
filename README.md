@@ -18,3 +18,15 @@ Update Script
 ```
 yarn run imageIndex
 ```
+
+# Encode Sushi Nouns image data
+
+Prepare packages
+```
+yarn install
+```
+
+Encode
+```
+yarn run encode-sushi
+```
