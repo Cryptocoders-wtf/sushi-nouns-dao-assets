@@ -1,4 +1,8 @@
+![bg-amime.png](bg-amime.png) bg-amime.png
+
 ![bg-asanoha.png](bg-asanoha.png) bg-asanoha.png
+
+![bg-chidori.png](bg-chidori.png) bg-chidori.png
 
 ![bg-fundou.png](bg-fundou.png) bg-fundou.png
 
@@ -14,7 +18,11 @@
 
 ![bg-sankuzushi.png](bg-sankuzushi.png) bg-sankuzushi.png
 
+![bg-sayagata.png](bg-sayagata.png) bg-sayagata.png
+
 ![bg-seigaiha.png](bg-seigaiha.png) bg-seigaiha.png
+
+![bg-shima.png](bg-shima.png) bg-shima.png
 
 ![bg-shippou.png](bg-shippou.png) bg-shippou.png
 

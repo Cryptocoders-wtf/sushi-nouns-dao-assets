@@ -4,6 +4,8 @@
 
 ![accessory-bonsai.png](accessory-bonsai.png) accessory-bonsai.png
 
+![accessory-chochin.png](accessory-chochin.png) accessory-chochin.png
+
 ![accessory-crab.png](accessory-crab.png) accessory-crab.png
 
 ![accessory-dice1.png](accessory-dice1.png) accessory-dice1.png
@@ -36,6 +38,10 @@
 
 ![accessory-katori-sennkou.png](accessory-katori-sennkou.png) accessory-katori-sennkou.png
 
+![accessory-kumo1.png](accessory-kumo1.png) accessory-kumo1.png
+
+![accessory-kumo2.png](accessory-kumo2.png) accessory-kumo2.png
+
 ![accessory-map-of-japan.png](accessory-map-of-japan.png) accessory-map-of-japan.png
 
 ![accessory-nihon-logo.png](accessory-nihon-logo.png) accessory-nihon-logo.png
@@ -47,6 +53,8 @@
 ![accessory-retorosushi-checker.png](accessory-retorosushi-checker.png) accessory-retorosushi-checker.png
 
 ![accessory-retorosushi-plaid.png](accessory-retorosushi-plaid.png) accessory-retorosushi-plaid.png
+
+![accessory-ryusui.png](accessory-ryusui.png) accessory-ryusui.png
 
 ![accessory-sakura.png](accessory-sakura.png) accessory-sakura.png
 
@@ -61,6 +69,38 @@
 ![accessory-txt-jp.png](accessory-txt-jp.png) accessory-txt-jp.png
 
 ![accessory-txt-sushi.png](accessory-txt-sushi.png) accessory-txt-sushi.png
+
+![accessory-wa-amime.png](accessory-wa-amime.png) accessory-wa-amime.png
+
+![accessory-wa-asanoha.png](accessory-wa-asanoha.png) accessory-wa-asanoha.png
+
+![accessory-wa-chidori.png](accessory-wa-chidori.png) accessory-wa-chidori.png
+
+![accessory-wa-fundou.png](accessory-wa-fundou.png) accessory-wa-fundou.png
+
+![accessory-wa-higaki.png](accessory-wa-higaki.png) accessory-wa-higaki.png
+
+![accessory-wa-hishi.png](accessory-wa-hishi.png) accessory-wa-hishi.png
+
+![accessory-wa-ichimatsu.png](accessory-wa-ichimatsu.png) accessory-wa-ichimatsu.png
+
+![accessory-wa-kagome.png](accessory-wa-kagome.png) accessory-wa-kagome.png
+
+![accessory-wa-koushi.png](accessory-wa-koushi.png) accessory-wa-koushi.png
+
+![accessory-wa-sankuzushi.png](accessory-wa-sankuzushi.png) accessory-wa-sankuzushi.png
+
+![accessory-wa-sayagata.png](accessory-wa-sayagata.png) accessory-wa-sayagata.png
+
+![accessory-wa-shima.png](accessory-wa-shima.png) accessory-wa-shima.png
+
+![accessory-wa-shippou.png](accessory-wa-shippou.png) accessory-wa-shippou.png
+
+![accessory-wa-tatewaku.png](accessory-wa-tatewaku.png) accessory-wa-tatewaku.png
+
+![accessory-wa-uroko.png](accessory-wa-uroko.png) accessory-wa-uroko.png
+
+![accessory-wa-yagasuri.png](accessory-wa-yagasuri.png) accessory-wa-yagasuri.png
 
 ![accessory-wasabi.png](accessory-wasabi.png) accessory-wasabi.png
 
