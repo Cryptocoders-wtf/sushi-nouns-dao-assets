@@ -1,10 +1,16 @@
 ![head-aoyagi.png](head-aoyagi.png) head-aoyagi.png
 
+![head-awabi.png](head-awabi.png) head-awabi.png
+
 ![head-california-roll.png](head-california-roll.png) head-california-roll.png
 
 ![head-conger-eel.png](head-conger-eel.png) head-conger-eel.png
 
 ![head-firefly-squid.png](head-firefly-squid.png) head-firefly-squid.png
+
+![head-ikuragunkan.png](head-ikuragunkan.png) head-ikuragunkan.png
+
+![head-kakinoha-v2.png](head-kakinoha-v2.png) head-kakinoha-v2.png
 
 ![head-kakinoha.png](head-kakinoha.png) head-kakinoha.png
 
@@ -15,6 +21,8 @@
 ![head-kohada.png](head-kohada.png) head-kohada.png
 
 ![head-medium-fatty-tuna.png](head-medium-fatty-tuna.png) head-medium-fatty-tuna.png
+
+![head-menegi.png](head-menegi.png) head-menegi.png
 
 ![head-sea-​​bream.png](head-sea-​​bream.png) head-sea-​​bream.png
 
@@ -34,4 +42,8 @@
 
 ![head-tekka-maki.png](head-tekka-maki.png) head-tekka-maki.png
 
+![head-uni-cucumber-v2.png](head-uni-cucumber-v2.png) head-uni-cucumber-v2.png
+
 ![head-uni-cucumber.png](head-uni-cucumber.png) head-uni-cucumber.png
+
+![head-wasabinasu.png](head-wasabinasu.png) head-wasabinasu.png

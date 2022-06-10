@@ -6,6 +6,10 @@
 
 ![accessory-crab.png](accessory-crab.png) accessory-crab.png
 
+![accessory-fuji-with-sun.png](accessory-fuji-with-sun.png) accessory-fuji-with-sun.png
+
+![accessory-fuji.png](accessory-fuji.png) accessory-fuji.png
+
 ![accessory-gari-box.png](accessory-gari-box.png) accessory-gari-box.png
 
 ![accessory-geta.png](accessory-geta.png) accessory-geta.png
@@ -13,6 +17,8 @@
 ![accessory-goldfish.png](accessory-goldfish.png) accessory-goldfish.png
 
 ![accessory-goodwill.png](accessory-goodwill.png) accessory-goodwill.png
+
+![accessory-japan-flag.png](accessory-japan-flag.png) accessory-japan-flag.png
 
 ![accessory-kakigoori.png](accessory-kakigoori.png) accessory-kakigoori.png
 
