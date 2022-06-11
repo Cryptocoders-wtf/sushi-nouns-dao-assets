@@ -71,6 +71,8 @@ const check_additional_palette_colors = () => {
   return 0;
 };
 
-encode();
-const r = check_additional_palette_colors();
-process.exit(r);
+(async () => {
+  await encode();
+  const r = check_additional_palette_colors();
+  process.exit(r);
+})();
