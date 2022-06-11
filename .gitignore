@@ -5,3 +5,6 @@ node_modules
 *.lock
 *.log
 *.sh
+
+# We store the image file as GitHub workflow artifact
+src/image-sushi-data.json

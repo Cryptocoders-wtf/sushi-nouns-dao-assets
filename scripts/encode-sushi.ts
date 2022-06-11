@@ -60,4 +60,19 @@ const encode = async () => {
   );
 };
 
-encode();
+const check_additional_palette_colors = () => {
+  const original_palette: string[] = originalData.palette;
+  const new_palette: string[] = require(DESTINATION).palette;
+  const added = new_palette.filter(color => !original_palette.includes(color));
+  if (added.length > 0) {
+    console.log(`Found new colors in palette: [${added.toString()}]`);
+    return 1;
+  }
+  return 0;
+};
+
+(async () => {
+  await encode();
+  const r = check_additional_palette_colors();
+  process.exit(r);
+})();
