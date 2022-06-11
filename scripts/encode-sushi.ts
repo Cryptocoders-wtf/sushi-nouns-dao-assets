@@ -60,11 +60,11 @@ const encode = async () => {
   );
 };
 
-const check_additional_palette_colors = async () => {
+const check_additional_palette_colors = () => {
   const original_palette: string[] = originalData.palette;
   const new_palette: string[] = require(DESTINATION).palette;
-  if (original_palette !== new_palette) {
-    const added = new_palette.filter(color => !original_palette.includes(color));
+  const added = new_palette.filter(color => !original_palette.includes(color));
+  if (added.length > 0) {
     console.log(`Found new colors in palette: [${added.toString()}]`);
     return 1;
   }
@@ -72,6 +72,5 @@ const check_additional_palette_colors = async () => {
 };
 
 encode();
-check_additional_palette_colors().then( r => {
-  process.exit(r);
-});
+const r = check_additional_palette_colors();
+process.exit(r);
