@@ -1,5 +1,3 @@
-![head-aoyagi.png](head-aoyagi.png) head-aoyagi.png
-
 ![head-awabi.png](head-awabi.png) head-awabi.png
 
 ![head-california-roll.png](head-california-roll.png) head-california-roll.png
@@ -24,7 +22,7 @@
 
 ![head-menegi.png](head-menegi.png) head-menegi.png
 
-![head-sea-​​bream.png](head-sea-​​bream.png) head-sea-​​bream.png
+![head-sea-bream.png](head-sea-bream.png) head-sea-bream.png
 
 ![head-shako.png](head-shako.png) head-shako.png
 
