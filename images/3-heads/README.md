@@ -26,6 +26,8 @@
 
 ![head-sea-bream.png](head-sea-bream.png) head-sea-bream.png
 
+![head-sea-​​bream.png](head-sea-​​bream.png) head-sea-​​bream.png
+
 ![head-shako.png](head-shako.png) head-shako.png
 
 ![head-shime-mackerel.png](head-shime-mackerel.png) head-shime-mackerel.png
