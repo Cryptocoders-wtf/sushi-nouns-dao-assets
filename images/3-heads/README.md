@@ -60,8 +60,6 @@
 
 ![head-unagi.png](head-unagi.png) head-unagi.png
 
-![head-uni-cucumber-v2.png](head-uni-cucumber-v2.png) head-uni-cucumber-v2.png
-
 ![head-uni-cucumber.png](head-uni-cucumber.png) head-uni-cucumber.png
 
 ![head-wasabinasu.png](head-wasabinasu.png) head-wasabinasu.png
