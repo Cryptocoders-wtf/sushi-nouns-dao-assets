@@ -14,8 +14,6 @@
 
 ![head-inari.png](head-inari.png) head-inari.png
 
-![head-kakinoha-v2.png](head-kakinoha-v2.png) head-kakinoha-v2.png
-
 ![head-kakinoha.png](head-kakinoha.png) head-kakinoha.png
 
 ![head-kanpyou-maki.png](head-kanpyou-maki.png) head-kanpyou-maki.png
