@@ -31,5 +31,9 @@ jobs:
       - name: Commit image data and index
         run: |
           git add src/image-sushi-data.json images/*/README.md
-          git commit -m "Update image data and index"
-          git push origin main
+          if [ $(git diff --staged --name-only | wc -l) != 0 ]; then
+            git commit -m "Update image data and index"
+            git push origin main
+          else
+            echo "No change on image data and index"
+          fi
