@@ -10,11 +10,15 @@
 
 ![head-firefly-squid.png](head-firefly-squid.png) head-firefly-squid.png
 
+![head-fulvia-mutica.png](head-fulvia-mutica.png) head-fulvia-mutica.png
+
 ![head-funazushi.png](head-funazushi.png) head-funazushi.png
 
 ![head-futomaki.png](head-futomaki.png) head-futomaki.png
 
 ![head-geso.png](head-geso.png) head-geso.png
+
+![head-geta.png](head-geta.png) head-geta.png
 
 ![head-hakozushi.png](head-hakozushi.png) head-hakozushi.png
 
@@ -36,11 +40,15 @@
 
 ![head-kohada.png](head-kohada.png) head-kohada.png
 
+![head-masunosushi.png](head-masunosushi.png) head-masunosushi.png
+
 ![head-medium-fatty-tuna.png](head-medium-fatty-tuna.png) head-medium-fatty-tuna.png
 
 ![head-menegi.png](head-menegi.png) head-menegi.png
 
 ![head-nigiri.png](head-nigiri.png) head-nigiri.png
+
+![head-noren.png](head-noren.png) head-noren.png
 
 ![head-scallop.png](head-scallop.png) head-scallop.png
 
@@ -58,7 +66,15 @@
 
 ![head-skipjack.png](head-skipjack.png) head-skipjack.png
 
+![head-soybotle.png](head-soybotle.png) head-soybotle.png
+
 ![head-squid.png](head-squid.png) head-squid.png
+
+![head-sushicase.png](head-sushicase.png) head-sushicase.png
+
+![head-sushioke.png](head-sushioke.png) head-sushioke.png
+
+![head-susioke.png](head-susioke.png) head-susioke.png
 
 ![head-tako.png](head-tako.png) head-tako.png
 
@@ -72,6 +88,8 @@
 
 ![head-tuna.png](head-tuna.png) head-tuna.png
 
+![head-tunamaki.png](head-tunamaki.png) head-tunamaki.png
+
 ![head-unagi.png](head-unagi.png) head-unagi.png
 
 ![head-uni-cucumber.png](head-uni-cucumber.png) head-uni-cucumber.png
@@ -79,3 +97,5 @@
 ![head-uni.png](head-uni.png) head-uni.png
 
 ![head-wasabinasu.png](head-wasabinasu.png) head-wasabinasu.png
+
+![head-yunomi.png](head-yunomi.png) head-yunomi.png
