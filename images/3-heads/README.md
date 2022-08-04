@@ -80,8 +80,6 @@
 
 ![head-takuan-maki.png](head-takuan-maki.png) head-takuan-maki.png
 
-![head-takuwan maki.png](head-takuwan maki.png) head-takuwan maki.png
-
 ![head-tamago-v3.png](head-tamago-v3.png) head-tamago-v3.png
 
 ![head-tekka-maki.png](head-tekka-maki.png) head-tekka-maki.png
