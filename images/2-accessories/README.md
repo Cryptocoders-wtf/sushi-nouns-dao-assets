@@ -1,5 +1,7 @@
 ![accessory-Dpad.png](accessory-Dpad.png) accessory-Dpad.png
 
+![accessory-alien.png](accessory-alien.png) accessory-alien.png
+
 ![accessory-bling-geta.png](accessory-bling-geta.png) accessory-bling-geta.png
 
 ![accessory-bonsai.png](accessory-bonsai.png) accessory-bonsai.png
@@ -91,6 +93,8 @@
 ![accessory-wa-sankuzushi.png](accessory-wa-sankuzushi.png) accessory-wa-sankuzushi.png
 
 ![accessory-wa-sayagata.png](accessory-wa-sayagata.png) accessory-wa-sayagata.png
+
+![accessory-wa-seigaiha.png](accessory-wa-seigaiha.png) accessory-wa-seigaiha.png
 
 ![accessory-wa-shima.png](accessory-wa-shima.png) accessory-wa-shima.png
 
